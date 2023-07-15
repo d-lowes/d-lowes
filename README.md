@@ -1,4 +1,4 @@
-### I am Dylan!
+### My name is Dylan.
 - ⚡ I am a a full-stack software developer with experience in environmental science, real estate, producing and DJing music, and learning new technologies quickly.
 - 🌱 I love building new connections with people and developing my skills in a collaboritive environment.
 

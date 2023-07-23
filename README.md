@@ -1,5 +1,5 @@
 ### Hi, I'm Dylan!
-- ⚡ I am a a full-stack software engineer with experience in environmental science, real estate, producing and DJing music.
+- ⚡ I am a full stack software developer with experience in environmental science, real estate, producing and DJing music.
 - 🌱 I love building new connections with people and developing my skills in a collaboritive environment.
 
 <!--

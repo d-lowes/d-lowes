@@ -1,4 +1,4 @@
-### Hi, I'm Dylan!
+### Hi, I'm Dylan! I am an IT professional.
 - ⚡ I am passionate about technology with experience in full stack software development, environmental science, real estate, producing and DJing music.
 - 🌱 I love building new connections with people and developing my skills in a collaboritive environment.
 

@@ -1,6 +1,6 @@
 ### Hi, I'm Dylan! I am an IT professional.
-- ⚡ I am passionate about technology with experience in full stack software development, environmental science, real estate, producing and DJing music.
-- 🌱 I love building new connections with people and developing my skills in a collaboritive environment.
+⚡ I am passionate about technology with experience in full stack software development, environmental science, real estate, and producing music.
+🌱 I love building new connections with people and developing my skills in a collaboritive environment.
 
 <!--
 **d-lowes/d-lowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

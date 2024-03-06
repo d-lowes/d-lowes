@@ -6,7 +6,7 @@
 <br>
 🌱 I love building new connections with people and developing my skills in a collaboritive environment.
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>🖥️ Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation]()
@@ -17,7 +17,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🖧 Connect with me:</h2>
 
 [<img align="left" alt="DylanLowes | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0077B5/FFFFFF" />][linkedin]
 

@@ -6,12 +6,32 @@
 <br>
 🌱 I love building new connections with people and developing my skills in a collaboritive environment.
 
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Ticket Lifecycle Examples]()
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DylanLowes | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0077B5/FFFFFF" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/dylanlowes
+<br>
 
+
+<h2>🪐 GitHub Stats:</h2>
+
+![d-lowes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=d-lowes&theme=tokyonight&hide_border=false)
+
+![d-lowes's Stats](https://github-readme-stats.vercel.app/api?username=d-lowes&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![d-lowes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-lowes&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <!--
 **d-lowes/d-lowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

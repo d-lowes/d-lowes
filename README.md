@@ -24,6 +24,11 @@
 🌍 **[Live Demo](https://warbler-twitter-clone-by-d-lowes.onrender.com/)**  
 
 
+🔍 **Jobly - A Job Finder App**  
+✨ ***Tech Stack***: React | Node.js | Express | Tailwind | Flowbite  
+🔗 **[GitHub Repository](https://github.com/d-lowes/jobly-frontend)**
+
+
 <h2> 🖧 Connect with me:</h2>
 
 [<img align="left" alt="DylanLowes | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0077B5/FFFFFF" />][linkedin]

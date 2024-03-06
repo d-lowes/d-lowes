@@ -6,17 +6,18 @@
 <br>
 🌱 I love building new connections with people and developing my skills in a collaboritive environment.
 
-<h2>🖥️ Information Technology Projects:</h2>
+<h2>📟 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/d-lowes/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/d-lowes/osticket-post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/d-lowes/osticket-ticket-lifecycle)
-<!--    
-  - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
--->
+🌌 **Microsoft Azure**  
+&emsp;◾ **[Configuring On-premises Active Directory within Azure VMs]()**  
+&emsp;◾ **[Network Security Groups (NSGs) and Inspecting Network Protocols]()**  
+
+📠 **osTicket (Help Desk Ticketing System)**  
+&emsp;◾ **[Prerequisites and Installation](https://github.com/d-lowes/osticket-prereqs)**  
+&emsp;◾ **[Post-Installation Configuration](https://github.com/d-lowes/osticket-post-install-config)**  
+&emsp;◾ **[Ticket Lifecycle Examples](https://github.com/d-lowes/osticket-ticket-lifecycle)**  
+
+---
 <h2>🖥️ Full Stack Web Development Projects:</h2>
 
 🐦 **Warbler - A Twitter Clone**  

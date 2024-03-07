@@ -17,7 +17,7 @@
 &emsp;◾ **[Post-Installation Configuration](https://github.com/d-lowes/osticket-post-install-config)**  
 &emsp;◾ **[Ticket Lifecycle Examples](https://github.com/d-lowes/osticket-ticket-lifecycle)**  
 
----
+
 <h2>🖥️ Full Stack Web Development Projects:</h2>
 
 🐦 **Warbler - A Twitter Clone**  

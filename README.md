@@ -10,7 +10,7 @@
 
 🌌 **Microsoft Azure**  
 &emsp;◾ **[Configuring On-premises Active Directory within Azure VMs]()**  
-&emsp;◾ **[Network Security Groups (NSGs) and Inspecting Network Protocols]()**  
+&emsp;◾ **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/d-lowes/azure-network-protocols)**  
 
 📠 **osTicket (Help Desk Ticketing System)**  
 &emsp;◾ **[Prerequisites and Installation](https://github.com/d-lowes/osticket-prereqs)**  

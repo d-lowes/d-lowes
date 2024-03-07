@@ -31,7 +31,7 @@
 🔗 **[GitHub Repository](https://github.com/d-lowes/jobly-frontend)**
 
 
-<h2> 🖧 Connect with me:</h2>
+<h2>Connect with me on LinkedIn!</h2>
 
 [<img align="left" alt="DylanLowes | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0077B5/FFFFFF" />][linkedin]
 

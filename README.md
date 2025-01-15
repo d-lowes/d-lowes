@@ -34,7 +34,7 @@
 
 [<img align="left" alt="DylanLowes | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0077B5/FFFFFF" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/dylanlowes
+[linkedin]: https://www.linkedin.com/in/dylanlowes/
 <br>
 
 
